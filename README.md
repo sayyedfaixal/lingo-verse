@@ -83,6 +83,7 @@
 - **[Tailwind CSS](https://tailwindcss.com/)** - Styling
 - **[TypeScript](https://www.typescriptlang.org/)** - Type safety
 
+
 ## 📁 Project Structure
 
 ```
@@ -140,6 +141,9 @@ Your Lingo.dev API key is:
 - Sent only to the local Next.js API route, which then communicates with Lingo.dev
 - Never exposed to the client-side code or third parties
 
+## Demo
+https://github.com/user-attachments/assets/6e9d5c64-dcff-457b-a56f-569ee9868fea
+
 ## 🤝 Contributing
 
 Found a bug or have an idea? Feel free to:
@@ -156,3 +160,6 @@ This project is part of the Lingo.dev community contributions and is licensed un
 <p align="center">
   Built with ❤️ using <a href="https://lingo.dev">Lingo.dev</a>
 </p>
+
+
+
